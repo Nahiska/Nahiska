@@ -30,7 +30,7 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/estefania-luddeni/" target="_blank"> <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a"/> </a>
-    <a href="https://www.linkedin.com/in/estefania-luddeni/" target="_blank"> <img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=2bbc8a"/> </a>
+    <a href="https://www.linkedin.com/in/estefania-luddeni/" target="_blank"> <img src="https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=c++&logoColor=white&color=2bbc8a"/> </a>
     <a href="https://www.linkedin.com/in/estefania-luddeni/" target="_blank"> <img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a"/> </a>
     <a href="https://www.linkedin.com/in/estefania-luddeni/" target="_blank"> <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a"/> </a>
     <a href="https://www.linkedin.com/in/estefania-luddeni/" target="_blank"> <img src="https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a"/> </a>
