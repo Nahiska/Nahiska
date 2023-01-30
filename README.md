@@ -26,7 +26,7 @@
 - ⭐ &nbsp; Critical thinking, decision-making and problem-solving skills
 
 
-**Languages and Tools**
+- 👩🏻‍💻 &nbsp;**Languages and Tools**
 
 <p align="center">
     <a href="https://www.linkedin.com/in/estefania-luddeni/" target="_blank"> <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a"/> </a>
