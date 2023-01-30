@@ -1,5 +1,3 @@
-[![Nahiska](src/coding.GIF)](https://github.com/ariel-l/grupo_8_DEMACStore)
-
 <h1 align="center">Hi there, I'm Estefanía <img src="./src/wave.gif" width="30px"></h1>
 
 <table align="right">
