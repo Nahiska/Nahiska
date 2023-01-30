@@ -23,7 +23,7 @@
 <h3> :rocket: &nbsp;Skills </h3>
 
 
-- ⭐ &nbsp; Critical thinking, decision-making and problem solving skills
+- ⭐ &nbsp; Critical thinking, decision-making and problem-solving skills
 
 
 **Languages and Tools**
