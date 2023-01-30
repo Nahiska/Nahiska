@@ -17,7 +17,7 @@
 
 <h3> :zap: &nbsp;About me </h3>
 
-- 🎓 &nbsp; Studying **Desarrollo Web Full Stack** en <a href="https://www.digitalhouse.com/">DIGITAL HOUSE / FUNDACION FORMAR</a>.
+- 🎓 &nbsp; Studying **Desarrollo Web Full Stack** en <a href="https://www.digitalhouse.com/">Digital House</a>.
 - 💼 &nbsp; Currently work as a **Community Manager**.
 
 <h3> :rocket: &nbsp;Skills </h3>
