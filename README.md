@@ -15,7 +15,7 @@
 
 <h3> :zap: &nbsp;About me </h3>
 
-- 💼 &nbsp; Freelance Web Developer & Community Manager.
+- 💼 &nbsp; Freelance Web Developer & Community Manager
 
 <h3> :rocket: &nbsp;Skills </h3>
 
