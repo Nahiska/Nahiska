@@ -15,26 +15,27 @@
 
 <h3> :zap: &nbsp;About me </h3>
 
-- 🎓 &nbsp; Studying **Full Stack Web Development** in <a href="https://www.digitalhouse.com/">Digital House </a> with <a href="https://www.fundacionformar.net/">Fundación Formar </a> through a scholarship.
-- 💼 &nbsp; Currently work as a **Community Manager**.
+- 💼 &nbsp; Freelance Web Developer & Community Manager.
 
 <h3> :rocket: &nbsp;Skills </h3>
 
 
 - ⭐ &nbsp; Critical thinking, decision-making and problem-solving skills
 
+- 🔄 &nbsp; Experienced in Agile methodologies for efficient project management
 
-👩🏻‍💻 **Languages and Tools**
-
-<p align="center">
-    <a href="https://www.linkedin.com/in/estefania-luddeni/" target="_blank"> <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a"/> </a>
-    <a href="https://www.linkedin.com/in/estefania-luddeni/" target="_blank"> <img src="https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=c++&logoColor=white&color=2bbc8a"/> </a>
-    <a href="https://www.linkedin.com/in/estefania-luddeni/" target="_blank"> <img src="https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a"/> </a>
-    <a href="https://www.linkedin.com/in/estefania-luddeni/" target="_blank"> <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a"/> </a>
-    <a href="https://www.linkedin.com/in/estefania-luddeni/" target="_blank"> <img src="https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a"/> </a>
-    <a href="https://www.linkedin.com/in/estefania-luddeni/" target="_blank"> <img src="https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=2bbc8a"/> </a>
-    <a href="https://www.linkedin.com/in/estefania-luddeni/" target="_blank"> <img src="https://img.shields.io/badge/Tools-Trello-informational?style=flat&logo=gitlab&logoColor=white&color=2bbc8a"/> </a>
-</p>
+<h3>👩🏻‍💻 Languages and Tools:</h3>
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+    </div>
 
 ---
 
