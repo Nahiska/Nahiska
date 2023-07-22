@@ -19,10 +19,9 @@
 
 <h3> :rocket: &nbsp;Skills </h3>
 
-
-- ⭐ &nbsp; Critical thinking, decision-making and problem-solving skills
-
 - 🔄 &nbsp; Experienced in Agile methodologies for efficient project management
+  
+- ⭐ &nbsp; Critical thinking, decision-making and problem-solving skills
 
 <h3>👩🏻‍💻&nbsp; Languages and Tools:</h3>
     <div>
