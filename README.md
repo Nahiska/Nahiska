@@ -15,13 +15,13 @@
 
 <h3> :zap: &nbsp;About me </h3>
 
-- 💼 &nbsp; Freelance Web Developer & Community Manager
+- 💼 &nbsp; Freelance Web Developer & Community Manager. My combined focus in both areas allows me to approach projects holistically and provide creative and effective solutions.
 
 <h3> :rocket: &nbsp;Skills </h3>
 
-- 🔄 &nbsp; Experienced in Agile methodologies for efficient project management
+- ⭐ &nbsp; Critical thinking, decision-making and problem-solving skills.
   
-- ⭐ &nbsp; Critical thinking, decision-making and problem-solving skills
+- 🔄 &nbsp; Experienced in Agile methodologies for efficient project management.
 
 <h3>👩🏻‍💻&nbsp; Languages and Tools:</h3>
     <div>
