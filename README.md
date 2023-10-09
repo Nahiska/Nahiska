@@ -23,18 +23,18 @@
   
 - 🔄 &nbsp; Experienced in Agile methodologies for efficient project management.
 
-<h3>👩🏻‍💻&nbsp; Languages and Tools:</h3>
-    <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-    </div>
+<h3>👩🏻‍💻&nbsp; Technologies:</h3>
+
+ ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png) 
+ ![CSS](https://img.icons8.com/color/48/000000/css3.png)
+ ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) 
+ ![React](https://img.icons8.com/ultraviolet/48/000000/react--v1.png) 
+ ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png) 
+ ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) 
+ ![Express.js](https://img.icons8.com/color/48/000000/express.png) 
+ ![MySQL](https://img.icons8.com/fluency/48/000000/mysql-logo.png) 
+ ![Sequelize](https://github.com/FlorAmado/FlorAmado/blob/main/images/sequelize.png)
+ ![Git](https://img.icons8.com/color/48/000000/git.png)
 
 ---
 
