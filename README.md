@@ -27,13 +27,13 @@
 
  ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png) 
  ![CSS](https://img.icons8.com/color/48/000000/css3.png)
- ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) 
- ![React](https://img.icons8.com/ultraviolet/48/000000/react--v1.png) 
  ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png) 
+ ![React](https://img.icons8.com/ultraviolet/48/000000/react--v1.png) 
  ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) 
  ![Express.js](https://img.icons8.com/color/48/000000/express.png) 
  ![MySQL](https://img.icons8.com/fluency/48/000000/mysql-logo.png) 
  ![Sequelize](https://github.com/FlorAmado/FlorAmado/blob/main/images/sequelize.png)
+ ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) 
  ![Git](https://img.icons8.com/color/48/000000/git.png)
 
 ---
