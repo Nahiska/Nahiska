@@ -35,7 +35,6 @@
  ![Sequelize](https://github.com/FlorAmado/FlorAmado/blob/main/images/sequelize.png)
  ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) 
  ![Git](https://img.icons8.com/color/48/000000/git.png)
- ![TypeScript](https://icons8.com/icon/wpZmKzk11AzJ/typescript)
 
 ---
 
